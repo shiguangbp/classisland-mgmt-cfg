@@ -58,7 +58,7 @@
         "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
             "Name": "\u82F1\u8BED",
             "Initial": "\u82F1",
-            "TeacherName": "",
+            "TeacherName": "\u5f20\u4ee5\u741b",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -84,7 +84,7 @@
         "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
             "Name": "\u5386\u53F2",
             "Initial": "\u5386",
-            "TeacherName": "",
+            "TeacherName": "\u5f20\u4e3d\u82f1",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -110,7 +110,7 @@
         "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
             "Name": "\u653F\u6CBB",
             "Initial": "\u653F",
-            "TeacherName": "",
+            "TeacherName": "\u6797\u79cb\u82b3",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -136,7 +136,7 @@
         "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
             "Name": "\u7269\u7406",
             "Initial": "\u7269",
-            "TeacherName": "",
+            "TeacherName": "\u6797\u5efa\u5174",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -162,7 +162,7 @@
         "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
             "Name": "\u5316\u5B66",
             "Initial": "\u5316",
-            "TeacherName": "",
+            "TeacherName": "\u90d1\u4e3d\u82b3",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -188,7 +188,7 @@
         "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca": {
             "Name": "\u751F\u7269",
             "Initial": "\u751F",
-            "TeacherName": "",
+            "TeacherName": "\u5173\u6167",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -214,7 +214,7 @@
         "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
             "Name": "\u5730\u7406",
             "Initial": "\u5730",
-            "TeacherName": "",
+            "TeacherName": "\u9ec4\u96e8\u632f",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
