@@ -4,14 +4,14 @@
     "OrganizationName": "福建省莆田第一中学",
     "ClassPlanSource": {
         "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/timelayouts.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
         "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/subjects.json",
-        "Version": 2
+        "Version": 3
     }
 }
