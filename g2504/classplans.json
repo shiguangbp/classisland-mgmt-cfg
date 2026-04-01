@@ -12,13 +12,6 @@
             },
             "Classes": [
                 {
-                    "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
-                    "IsChangedClass": false,
-                    "IsEnabled": false,
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
                     "SubjectId": "00000000-0000-0000-0000-000000000000",
                     "IsChangedClass": false,
                     "IsEnabled": false,
@@ -54,7 +47,14 @@
                     "IsActive": false
                 },
                 {
-                    "SubjectId": "abdd9374-72e0-4852-a69e-fc8ed622e1a4",
+                    "SubjectId": "00000000-0000-0000-0000-000000000000",
+                    "IsChangedClass": false,
+                    "IsEnabled": false,
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "00000000-0000-0000-0000-000000000000",
                     "IsChangedClass": false,
                     "IsEnabled": false,
                     "AttachedObjects": {},
