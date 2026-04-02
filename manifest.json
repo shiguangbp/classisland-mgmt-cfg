@@ -13,5 +13,9 @@
     "SubjectsSource": {
         "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/{id}/subjects.json",
         "Version": 5
+    },
+    "PolicySource": {
+        "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/policy.json",
+        "Version": 1
     }
 }
