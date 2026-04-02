@@ -4,9 +4,9 @@
     "ClassPlans": {},
     "Subjects": {
         "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
-            "Name": "\u8BED\u6587",
-            "Initial": "\u8BED",
-            "TeacherName": "\u5218\u6069\u6C5D",
+            "Name": "语文",
+            "Initial": "语",
+            "TeacherName": "刘恩汝",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -26,12 +26,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -40,9 +40,9 @@
             "IsActive": false
         },
         "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
-            "Name": "\u6570\u5B66",
-            "Initial": "\u6570",
-            "TeacherName": "\u5434\u70AB\u8446",
+            "Name": "数学",
+            "Initial": "数",
+            "TeacherName": "吴炫葆",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -50,12 +50,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -76,9 +76,9 @@
             "IsActive": false
         },
         "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
-            "Name": "\u5916\u8BED",
-            "Initial": "\u5916",
-            "TeacherName": "\u5F20\u4EE5\u741B",
+            "Name": "外语",
+            "Initial": "外",
+            "TeacherName": "张以琛",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -98,12 +98,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -112,9 +112,9 @@
             "IsActive": false
         },
         "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
-            "Name": "\u5386\u53F2",
-            "Initial": "\u5386",
-            "TeacherName": "\u5F20\u4E3D\u82F1",
+            "Name": "历史",
+            "Initial": "历",
+            "TeacherName": "张丽英",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -134,12 +134,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -148,9 +148,9 @@
             "IsActive": false
         },
         "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
-            "Name": "\u601D\u60F3\u653F\u6CBB",
-            "Initial": "\u653F",
-            "TeacherName": "\u6797\u79CB\u82B3",
+            "Name": "思想政治",
+            "Initial": "政",
+            "TeacherName": "林秋芳",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -170,12 +170,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -184,9 +184,9 @@
             "IsActive": false
         },
         "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
-            "Name": "\u7269\u7406",
-            "Initial": "\u7269",
-            "TeacherName": "\u6797\u5EFA\u5174",
+            "Name": "物理",
+            "Initial": "物",
+            "TeacherName": "林建兴",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -206,12 +206,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -220,9 +220,9 @@
             "IsActive": false
         },
         "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
-            "Name": "\u5316\u5B66",
-            "Initial": "\u5316",
-            "TeacherName": "\u90D1\u4E3D\u82B3",
+            "Name": "化学",
+            "Initial": "化",
+            "TeacherName": "郑丽芳",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -242,12 +242,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -256,9 +256,9 @@
             "IsActive": false
         },
         "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca": {
-            "Name": "\u751F\u7269\u5B66",
-            "Initial": "\u751F",
-            "TeacherName": "\u5173\u6167",
+            "Name": "生物学",
+            "Initial": "生",
+            "TeacherName": "关慧",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -278,12 +278,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -292,9 +292,9 @@
             "IsActive": false
         },
         "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
-            "Name": "\u5730\u7406",
-            "Initial": "\u5730",
-            "TeacherName": "\u9EC4\u96E8\u632F",
+            "Name": "地理",
+            "Initial": "地",
+            "TeacherName": "黄雨振",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -314,12 +314,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -328,9 +328,9 @@
             "IsActive": false
         },
         "66d1c380-d292-46e1-86d5-d403e2a4f200": {
-            "Name": "\u4FE1\u606F\u6280\u672F",
-            "Initial": "\u4FE1",
-            "TeacherName": "\u9EC4\u5EFA\u82AC",
+            "Name": "信息技术",
+            "Initial": "信",
+            "TeacherName": "黄建芬",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -338,12 +338,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u524D\u5F80\u673A\u623F\u96C6\u5408\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请前往机房集合。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -364,8 +364,8 @@
             "IsActive": false
         },
         "0ed2307b-4d9b-48fa-97ed-94bd2213c84e": {
-            "Name": "\u4F53\u80B2",
-            "Initial": "\u4F53",
+            "Name": "体育",
+            "Initial": "体",
             "TeacherName": "",
             "IsOutDoor": true,
             "AttachedObjects": {
@@ -374,12 +374,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 180,
-                    "ClassOnPreparingText": "\u4E0B\u8282\u8BFE\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u540C\u5B66\u4EEC\u5408\u7406\u5B89\u6392\u65F6\u95F4\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5019\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "下节课为户外课程，请同学们合理安排时间。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "候课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": true,
                     "IsActive": false
@@ -400,8 +400,8 @@
             "IsActive": false
         },
         "923f4a8b-51eb-468b-971d-bb02e7db0163": {
-            "Name": "\u81EA\u4E60",
-            "Initial": "\u81EA",
+            "Name": "自习",
+            "Initial": "自",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -418,7 +418,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -426,8 +426,8 @@
             "IsActive": false
         },
         "e95c01bd-2be3-4dde-a44e-14299a9258d3": {
-            "Name": "\u665A\u81EA\u4E60\u7B2C\u4E00\u8282",
-            "Initial": "\u665A1",
+            "Name": "晚自习第一节",
+            "Initial": "晚1",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -436,12 +436,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -462,9 +462,9 @@
             "IsActive": false
         },
         "91a88ebb-8ecb-493e-b09c-e35718f01dce": {
-            "Name": "\u97F3\u4E50",
-            "Initial": "\u97F3",
-            "TeacherName": "\u6797\u4E39\u71D5",
+            "Name": "音乐",
+            "Initial": "音",
+            "TeacherName": "林丹燕",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -480,12 +480,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 180,
-                    "ClassOnPreparingText": "\u4E0B\u8282\u8BFE\u4E0D\u5728\u672C\u6559\u5BA4\u4E0A\u8BFE\uFF0C\u8BF7\u540C\u5B66\u4EEC\u5C3D\u5FEB\u524D\u5F80\u4E0A\u8BFE\u5730\u70B9\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5019\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "下节课不在本教室上课，请同学们尽快前往上课地点。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "候课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": true,
                     "IsActive": false
@@ -494,8 +494,8 @@
             "IsActive": false
         },
         "742b00dc-901b-496f-ae33-6714a13fa465": {
-            "Name": "\u7F8E\u672F",
-            "Initial": "\u7F8E",
+            "Name": "美术",
+            "Initial": "美",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -512,12 +512,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 180,
-                    "ClassOnPreparingText": "\u4E0B\u8282\u8BFE\u4E0D\u5728\u672C\u6559\u5BA4\u4E0A\u8BFE\uFF0C\u8BF7\u540C\u5B66\u4EEC\u5C3D\u5FEB\u524D\u5F80\u4E0A\u8BFE\u5730\u70B9\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5019\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "下节课不在本教室上课，请同学们尽快前往上课地点。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "候课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": true,
                     "IsActive": false
@@ -526,8 +526,8 @@
             "IsActive": false
         },
         "353c420e-c256-4e28-9f9c-283333ba6e62": {
-            "Name": "\u9009\u4FEE",
-            "Initial": "\u9009",
+            "Name": "选修",
+            "Initial": "选",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -548,12 +548,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 180,
-                    "ClassOnPreparingText": "\u4E0B\u8282\u8BFE\u4E0D\u5728\u672C\u6559\u5BA4\u4E0A\u8BFE\uFF0C\u8BF7\u540C\u5B66\u4EEC\u5C3D\u5FEB\u524D\u5F80\u4E0A\u8BFE\u5730\u70B9\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5019\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "下节课不在本教室上课，请同学们尽快前往上课地点。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "候课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": true,
                     "IsActive": false
@@ -562,8 +562,8 @@
             "IsActive": false
         },
         "cc826063-bdb7-492b-baf3-3c6877e8c4bf": {
-            "Name": "\u793E\u56E2",
-            "Initial": "\u793E",
+            "Name": "社团",
+            "Initial": "社",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -584,12 +584,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 180,
-                    "ClassOnPreparingText": "\u4E0B\u8282\u8BFE\u4E3A\u81EA\u7531\u8BFE\u7A0B\uFF0C\u8BF7\u540C\u5B66\u4EEC\u81EA\u884C\u5B89\u6392\u65F6\u95F4\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5019\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "下节课为自由课程，请同学们自行安排时间。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "候课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": true,
                     "IsActive": false
@@ -598,9 +598,9 @@
             "IsActive": false
         },
         "31380edc-400d-46c2-b993-a5c4a43db126": {
-            "Name": "\u5FC3\u7406",
-            "Initial": "\u5FC3",
-            "TeacherName": "\u9648\u4F1F",
+            "Name": "心理",
+            "Initial": "心",
+            "TeacherName": "陈伟",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -620,12 +620,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -634,8 +634,8 @@
             "IsActive": false
         },
         "9875b24c-470d-4195-8a6a-73925ea4808b": {
-            "Name": "\u8BED\u6587\u65E9\u8BFB",
-            "Initial": "\u8BED\u65E9",
+            "Name": "语文早读",
+            "Initial": "语早",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -656,12 +656,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -670,9 +670,9 @@
             "IsActive": false
         },
         "cf251cd8-2aab-4aa1-8211-50f4e6919a3d": {
-            "Name": "\u73ED\u4F1A",
-            "Initial": "\u73ED",
-            "TeacherName": "\u5434\u70AB\u8446",
+            "Name": "班会",
+            "Initial": "班",
+            "TeacherName": "吴炫葆",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -692,12 +692,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -706,8 +706,8 @@
             "IsActive": false
         },
         "4c97ac39-9b81-4c37-8ef5-1df1240b9aae": {
-            "Name": "\u665A\u81EA\u4E60\u7B2C\u4E8C\u8282",
-            "Initial": "\u665A2",
+            "Name": "晚自习第二节",
+            "Initial": "晚2",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -716,12 +716,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -742,8 +742,8 @@
             "IsActive": false
         },
         "d5276e48-6d55-446c-98aa-2893a2e1241e": {
-            "Name": "\u4F53\u80B2\u6D3B\u52A8",
-            "Initial": "\u6D3B",
+            "Name": "体育活动",
+            "Initial": "活",
             "TeacherName": "",
             "IsOutDoor": true,
             "AttachedObjects": {
@@ -752,12 +752,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 180,
-                    "ClassOnPreparingText": "\u4E0B\u8282\u8BFE\u4E3A\u81EA\u7531\u8BFE\u7A0B\uFF0C\u8BF7\u540C\u5B66\u4EEC\u81EA\u884C\u5B89\u6392\u65F6\u95F4\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5019\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "下节课为自由课程，请同学们自行安排时间。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "候课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": true,
                     "IsActive": false
@@ -778,8 +778,8 @@
             "IsActive": false
         },
         "6d6c83be-8de6-4050-9089-fbc8dfe6fa95": {
-            "Name": "\u7814\u7A76",
-            "Initial": "\u7814",
+            "Name": "研究",
+            "Initial": "研",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -788,12 +788,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -814,9 +814,9 @@
             "IsActive": false
         },
         "7c1aeac7-88fb-4e8e-8a72-3780e1267928": {
-            "Name": "\u52B3\u52A8\u6559\u80B2",
-            "Initial": "\u52B3",
-            "TeacherName": "\u6797\u78A7\u6625",
+            "Name": "劳动教育",
+            "Initial": "劳",
+            "TeacherName": "林碧春",
             "IsOutDoor": false,
             "AttachedObjects": {
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -824,12 +824,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -850,8 +850,8 @@
             "IsActive": false
         },
         "abdd9374-72e0-4852-a69e-fc8ed622e1a4": {
-            "Name": "\u8BED\u6587\u4E66\u5199\u8BAD\u7EC3",
-            "Initial": "\u8BED\u5199",
+            "Name": "语文书写训练",
+            "Initial": "语写",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -860,12 +860,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -886,8 +886,8 @@
             "IsActive": false
         },
         "96a35c53-ed4c-4d6c-b4b2-de1fb07b4541": {
-            "Name": "\u665A\u8BFB",
-            "Initial": "\u665A",
+            "Name": "晚读",
+            "Initial": "晚",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -896,12 +896,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -922,8 +922,8 @@
             "IsActive": false
         },
         "44000ddf-1830-4227-98d5-bbd5b8dd9e32": {
-            "Name": "\u665A\u81EA\u4E60\u7B2C\u4E09\u8282",
-            "Initial": "\u665A3",
+            "Name": "晚自习第三节",
+            "Initial": "晚3",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -932,12 +932,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -958,8 +958,8 @@
             "IsActive": false
         },
         "2c9c81c7-bf84-48a7-88bc-bfc127ddf6fa": {
-            "Name": "\u52B3\u52A8",
-            "Initial": "\u52B3",
+            "Name": "劳动",
+            "Initial": "劳",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -968,12 +968,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -994,8 +994,8 @@
             "IsActive": false
         },
         "208adf9f-604d-4686-97e9-08b0b921af3f": {
-            "Name": "\u82F1\u8BED\u65E9\u8BFB",
-            "Initial": "\u82F1\u65E9",
+            "Name": "英语早读",
+            "Initial": "英早",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1004,12 +1004,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -1030,8 +1030,8 @@
             "IsActive": false
         },
         "ebb89e6d-a509-4a7f-9a81-fbd623a1b1e3": {
-            "Name": "\u82F1\u8BED\u542C\u529B",
-            "Initial": "\u82F1\u542C",
+            "Name": "英语听力",
+            "Initial": "英听",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1040,12 +1040,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -1066,8 +1066,8 @@
             "IsActive": false
         },
         "d217b2e5-f7f7-4245-881f-fe54da25ae36": {
-            "Name": "\u82F1\u8BED\u4E66\u5199\u8BAD\u7EC3",
-            "Initial": "\u82F1\u5199",
+            "Name": "英语书写训练",
+            "Initial": "英写",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1076,12 +1076,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -1108,12 +1108,12 @@
     "TempClassPlanSetupTime": "2026-02-21T10:14:51.1024097+08:00",
     "ClassPlanGroups": {
         "acaf4ef0-e261-4262-b941-34ea93cb4369": {
-            "Name": "\u9ED8\u8BA4",
+            "Name": "默认",
             "IsGlobal": false,
             "IsActive": false
         },
         "00000000-0000-0000-0000-000000000000": {
-            "Name": "\u5168\u5C40\u8BFE\u8868\u7FA4",
+            "Name": "全局课表群",
             "IsGlobal": true,
             "IsActive": false
         }

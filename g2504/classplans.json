@@ -126,7 +126,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -135,12 +135,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -284,7 +284,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -293,12 +293,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -442,7 +442,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -451,12 +451,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -600,7 +600,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -609,12 +609,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -758,7 +758,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -767,12 +767,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
@@ -916,7 +916,7 @@
             "AttachedObjects": {
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -925,12 +925,12 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "OutdoorClassOnPreparingText": "\u4E0B\u8282\u8BFE\u7A0B\u4E3A\u6237\u5916\u8BFE\u7A0B\uFF0C\u8BF7\u5408\u7406\u89C4\u5212\u65F6\u95F4\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "OutdoorClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
-                    "ClassOnMaskText": "\u4E0A\u8BFE",
-                    "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
                     "ClassOffOverlayText": "",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false

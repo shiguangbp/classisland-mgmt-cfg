@@ -1,0 +1,17 @@
+{
+    "ServerKind": 0,
+    "CoreVersion":"2.0.0.0",
+    "OrganizationName": "福建省莆田第一中学",
+    "ClassPlanSource": {
+        "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/{id}/classplans.json",
+        "Version": 6
+    },
+    "TimeLayoutSource": {
+        "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/timelayouts.json",
+        "Version": 5
+    },
+    "SubjectsSource": {
+        "Value": "https://gitee.com/shiguangbp/classisland-mgmt-cfg/raw/master/{id}/subjects.json",
+        "Version": 5
+    }
+}
